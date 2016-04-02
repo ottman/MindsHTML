@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Source Sans Pro';
+    font-family: 'Helvetica';
     src: url('source-sans-pro-regular.eot');
     src: url('source-sans-pro-regular.eot?#iefix') format('embedded-opentype'),
          url('source-sans-pro-regular.woff') format('woff'),
@@ -9,7 +9,7 @@
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
+    font-family: 'Helvetica';
     src: url('source-sans-pro-italic.eot');
     src: url('source-sans-pro-italic.eot?#iefix') format('embedded-opentype'),
          url('source-sans-pro-italic.woff') format('woff'),
@@ -19,7 +19,7 @@
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
+    font-family: 'Helvetica';
     src: url('source-sans-pro-semibold.eot');
     src: url('source-sans-pro-semibold.eot?#iefix') format('embedded-opentype'),
          url('source-sans-pro-semibold.woff') format('woff'),
@@ -29,7 +29,7 @@
 }
 
 @font-face {
-    font-family: 'Source Sans Pro';
+    font-family: 'Helvetica';
     src: url('source-sans-pro-semibolditalic.eot');
     src: url('source-sans-pro-semibolditalic.eot?#iefix') format('embedded-opentype'),
          url('source-sans-pro-semibolditalic.woff') format('woff'),
