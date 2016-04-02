@@ -276,7 +276,7 @@ html:-moz-full-screen-ancestor {
   right: 8px;
   bottom: 8px;
   z-index: 31;
-  font-family: Helvetica, sans-serif;
+  font-family: "Helvetica, helvetica-neue, sans-serif;"
   font-size: 12px;
   line-height: 1;
   color: #fff;
