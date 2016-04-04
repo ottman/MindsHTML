@@ -1,4 +1,4 @@
-# Contribute to the minds community. Edit this and push to github to help us establish our name.
+# This is a prototype corporate deck template built by Minds that you are free to contribute to or fork. You can see a demo in chrome at https://connorlee.github.io/MindsHTML/#/
 ## Instructions
 
 ### Markup
