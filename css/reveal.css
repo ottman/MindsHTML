@@ -25,7 +25,7 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
   padding: 0;
   border: 0;
   font-size: 100%;
-  font-family: "Helvetica NeueNeue-Light", "helvetica neue Light", "helvetica neue",
+  font-family: "helveticaNeue-Light", "helvetica Light", "helvetica",
   vertical-align: baseline; }
 
 .reveal article, .reveal aside, .reveal details, .reveal figcaption, .reveal figure,
@@ -40,13 +40,13 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  font-family: 'Helvetica Neue', Helvetica Neue-neue, Helvetica NeueNeue-Light; }
+  font-family: 'helvetica', helvetica-neue, helveticaNeue-Light; }
 p{
-font-family: 'Helvetica Neue', Helvetica Neue-neue, Helvetica NeueNeue-Light;
+font-family: 'helvetica', helvetica-neue, helveticaNeue-Light;
 font-weight: 100;
 }
 a{
-font-family: 'Helvetica Neue', Helvetica Neue-neue, Helvetica NeueNeue-Light;
+font-family: 'helvetica', helvetica-neue, helveticaNeue-Light;
 font-weight: 100;
 }
 body {
@@ -284,7 +284,7 @@ html:-moz-full-screen-ancestor {
   right: 8px;
   bottom: 8px;
   z-index: 31;
-  font-family: "Helvetica Neue", Helvetica Neue-neue, sans-serif;"
+  font-family: "helvetica", helvetica-neue, sans-serif;"
   font-size: 12px;
   line-height: 1;
   color: #fff;
@@ -1063,7 +1063,7 @@ html:-moz-full-screen-ancestor {
 .reveal.rtl .slides h5,
 .reveal.rtl .slides h6 {
   direction: rtl;
-  font-family: "Helvetica Neue", helvetica neue; }
+  font-family: "helvetica", helvetica; }
 
 .reveal.rtl pre,
 .reveal.rtl code {
@@ -1311,7 +1311,7 @@ html:-moz-full-screen-ancestor {
   overflow: auto;
   box-sizing: border-box;
   text-align: left;
-  font-family: "Helvetica Neue", Helvetica Neue-neue, helvetica neue;
+  font-family: "helvetica", helvetica-neue, helvetica;
   -webkit-overflow-scrolling: touch; }
 
 .reveal .speaker-notes.visible:not(:empty) {
